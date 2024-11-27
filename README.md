@@ -10,7 +10,7 @@ The unicorn project is meant to be a playful introduction to data analysis, wher
 
 ## Created By
 
-- **Name**: Remus Timofte and ChatGPT (GitHub: [summerxrt](https://github.com/summerxrt))
+- **Name**: Remus Timofte with ChatGPT (GitHub: [summerxrt](https://github.com/summerxrt))
 - **Date**: November 2024
 - **Tools Used**: R, RStudio, Git, GitHub
 
